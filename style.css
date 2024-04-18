@@ -33,7 +33,7 @@ hr {
 }
 
 .fejlec {
-    padding-top: 100px;
+    padding-top: 60px;
     font-weight: bold;
     padding-bottom: 40px;
 }
@@ -43,3 +43,16 @@ hr {
     text-decoration: none;
 }
 .border-top {width: 400px;}
+
+.felnyil {
+    width: 30px;
+    height: 30px;
+    background-color: white;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+}
+
+.linkkk {
+    text-decoration: none;
+}
